@@ -7,8 +7,17 @@ The group is open to PhD students and faculty.
 - Student Coordinator (2021-22): Aditya Chaudhry and Sangmin Oh
 
 ## Schedule & Topics
-- [Spring 2022](2022S.md) 
-- [Winter 2022](2022W.md): Inflation Risk / DeFi and Stablecoins
-- [Fall 2021](2021F.md): Preliminary Project Presentations
-- [Summer 2021](2021Su.md): Curriculum Paper Presentations / Granularity in Finance
-- [Spring 2021](2021S.md): Fiscal Theory & Inflation / Monetary Policy & International Finance / Concentration, Market Power, and Investment
+### Spring 2022
+- [Schedule](2022S.md) 
+### Winter 2022
+- [Schedule](2022W.md)
+- Topics: Inflation Risk / DeFi and Stablecoins
+### Fall 2021
+- [Schedule](2021F.md)
+- Topics: Preliminary Project Ideas
+### Summer 2021
+- [Schedule](2021Su.md)
+- Topics: Curriculum Paper Presentations / Granularity in Finance
+### Spring 2021
+- [Schedule](2021S.md)
+- Topics: Fiscal Theory & Inflation / Monetary Policy & International Finance / Concentration, Market Power, and Investment
