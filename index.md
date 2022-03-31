@@ -8,16 +8,17 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Topics
 ### Spring 2022
+- Topics: Preliminary Project Ideas / Economics of Sanctions
 - [Schedule](2022S.md) 
 ### Winter 2022
-- [Schedule](2022W.md)
 - Topics: Inflation Risk / DeFi and Stablecoins
+- [Schedule](2022W.md)
 ### Fall 2021
-- [Schedule](2021F.md)
 - Topics: Preliminary Project Ideas
+- [Schedule](2021F.md)
 ### Summer 2021
-- [Schedule](2021Su.md)
 - Topics: Curriculum Paper Presentations / Granularity in Finance
+- [Schedule](2021Su.md)
 ### Spring 2021
-- [Schedule](2021S.md)
 - Topics: Fiscal Theory & Inflation / Monetary Policy & International Finance / Concentration, Market Power, and Investment
+- [Schedule](2021S.md)
