@@ -12,7 +12,7 @@ The group is open to PhD students and faculty.
 
 ### Summer 2022
 - Topics: Network models / Text data in asset pricing
-- [Schedule](2022Su.md)
+- [Schedule](2022Su_Revised.md)
 
 ### Spring 2022
 - Topics: Preliminary Project Ideas / Economics of Sanctions
