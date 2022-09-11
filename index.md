@@ -10,6 +10,10 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Topics
 
+### Fall 2022
+- Topics: Private Assets / Revisiting CX Asset Pricing
+- [Schedule](2022F.md)
+
 ### Summer 2022
 - Topics: Network models / Text data in asset pricing
 - [Schedule](2022Su.md)
