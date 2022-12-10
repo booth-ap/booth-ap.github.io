@@ -10,6 +10,10 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Topics
 
+### Winter 2023
+- Topics: Preliminary Project Ideas
+- [Schedule](2023W.md)
+
 ### Fall 2022
 - Topics: Private Assets / Revisiting CX Asset Pricing
 - [Schedule](2022F.md)
