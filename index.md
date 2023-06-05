@@ -10,6 +10,10 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Topics
 
+### Summer 2023
+- Topics: Preliminary Project Ideas
+- [Schedule](2023Su.md) 
+
 ### Spring 2023
 - Topics: Preliminary Project Ideas
 - [Schedule](2023S.md) 
