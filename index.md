@@ -4,11 +4,16 @@ The Chicago Booth Asset Pricing Working Group is a weekly session in which stude
 
 The group is open to PhD students and faculty.
 - Faculty Advisors: [Stefan Nagel](https://voices.uchicago.edu/stefannagel/) and [Ralph Koijen](https://koijen.net/index.html)
+- Student Coordinator (2023-24): Federico Mainardi
 - Student Coordinator (2022-23): Federico Mainardi and Sangmin Oh
 - Past Coordinators:
   - 2021-22: Aditya Chaudhry and Sangmin Oh
 
 ## Schedule & Topics
+
+### Fall 2023
+- Topics: Preliminary Project Ideas
+- [Schedule](2023F.md) 
 
 ### Summer 2023
 - Topics: Preliminary Project Ideas
