@@ -14,7 +14,7 @@ The group is open to PhD students and faculty.
 ### Winter 2025
 - Topics: Preliminary Project Ideas
 - [Schedule](2025W.md)
-- 
+  
 ### Fall 2024
 - Topics: Preliminary Project Ideas
 - [Schedule](2024F.md)
