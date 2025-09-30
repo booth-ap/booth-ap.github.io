@@ -13,7 +13,7 @@ The group is open to PhD students and faculty.
 
 ### Fall 2025
 - Topics: Preliminary Project Ideas
-- [Schedule](2025F.md)
+- [Schedule](2025F)
 
 ### Summer 2025
 - Topics: Preliminary Project Ideas
