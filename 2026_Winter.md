@@ -7,3 +7,11 @@
 | Feb 24, 2026, 3:00 to 4:00 pm | Monica | 223 Conference Room |
 | Mar 3, 2026, 3:00 to 4:00 pm | Lewei | 223 Conference Room |
 | Mar 10, 2026, 3:00 to 4:00 pm | Rahul | 223 Conference Room |
+
+
+## Free Room / Post-Flyout Discussions
+
+| Date | Room |
+| :--- | :--- |
+| Jan 27, 2026, 3:00 to 4:00 pm | 100-9A Conference Room |
+| Feb 3, 2026, 3:00 to 4:00 pm | 3B Seminar Room |
