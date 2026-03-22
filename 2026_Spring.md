@@ -12,3 +12,4 @@
 | May 12 | Monica | 3A |
 | May 19 | Joe | 3A |
 | May 26 | Aditya | 3A |
+| June 2 | Lewei | 3A |
