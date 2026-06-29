@@ -4,7 +4,7 @@
 
 | Date | Presenter | Room |
 | :--- | :--- | :--- |
-| Jun 30, 2026 | New Member Lightning Round (Connor, Max, Yifan) | HC-223 |
+| Jun 30, 2026 | New Member Lightning Round: Connor, Max, Yifan | HC-223 |
 | Jul 7, 2026 | Lewei | HC-3SW |
 | Jul 14, 2026 | Rahul | HC-100-9H |
 | Jul 21, 2026 | Connor | HC-3SW |
