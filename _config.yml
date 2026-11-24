@@ -1,2 +1,28 @@
-theme: jekyll-theme-minimal
 title: Chicago Booth Asset Pricing
+tagline: A weekly working group for PhD students and faculty
+description: The Chicago Booth Asset Pricing Working Group is a weekly session in which students present their preliminary work and explore cutting edge topics in asset pricing.
+url: https://booth-ap.github.io
+
+# Left-hand navigation. When a new term starts: add its schedule page here,
+# move "current: true" to it, and drop the oldest term from the list.
+# Every past term stays linked from the home page.
+nav:
+  - title: Home
+    url: /
+  - title: Fall 2026
+    url: /2026_Fall.html
+    current: true
+  - title: Summer 2026
+    url: /2026_Summer.html
+  - title: Spring 2026
+    url: /2026_Spring.html
+  - title: Winter 2026
+    url: /2026_Winter.html
+  - title: All terms
+    url: /#schedule--topics
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: "default" }
+
+exclude: [README.md, Gemfile, Gemfile.lock]
