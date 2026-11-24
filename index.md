@@ -8,9 +8,9 @@ The group is open to PhD students and faculty.
 - Student Coordinator (2026-27): Aditya Dhar and Laurenz De Rosa
 - Past Coordinators:
   - 2025-26: Joe Kupferberg and Francisco Ruela
-  - 2023-25: Federico Mainardi and Filippo Cavaleri
-  - 2022-23: Federico Mainardi and Sangmin Oh
-  - 2021-22: Aditya Chaudhry
+  - 2023-25: [Federico Mainardi](https://fmainardi.com/) and [Filippo Cavaleri](https://filippocavaleri.github.io/)
+  - 2022-23: [Federico Mainardi](https://fmainardi.com/) and [Sangmin Oh](https://sangmino.github.io/)
+  - 2021-22: [Aditya Chaudhry](https://chaudhryaditya.github.io/)
 
 ## Schedule & Topics
 
