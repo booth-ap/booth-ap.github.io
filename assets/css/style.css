@@ -71,7 +71,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 }
 
 .side nav ul { list-style: none; margin: 26px 0 0; padding: 0; }
-.side nav li { margin: 0 0 14px; }
+.side nav li { margin: 0 0 8px; }
 .side nav a { font-size: 14.5px; font-weight: 500; color: var(--nav); }
 
 /* the page you are on is marked in maroon */
@@ -79,7 +79,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
 /* ---------- content ---------- */
 
-.body { max-width: 580px; }
+.body { max-width: 680px; }
 
 .body > :first-child { margin-top: 0; }
 
@@ -93,12 +93,12 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   font-weight: 600;
   line-height: 1.62;
   color: var(--ink);
-  margin: 26px 0 7px;
+  margin: 22px 0 6px;
 }
 
 .body ul, .body ol { margin: 0 0 15px; padding: 0; list-style: none; }
 
-.body li { position: relative; padding-left: 15px; margin: 0 0 9px; }
+.body li { position: relative; padding-left: 15px; margin: 0 0 3px; }
 
 .body ul > li::before {
   content: '';
@@ -139,13 +139,13 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--mute);
-  padding: 0 18px 9px 0;
+  padding: 0 18px 6px 0;
 }
 
 .body td {
   text-align: left;
   vertical-align: top;
-  padding: 0 18px 11px 0;
+  padding: 0 18px 4px 0;
   color: var(--text);
 }
 
@@ -163,11 +163,14 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
    takes its own line, so a long name never wraps through the middle of it */
 .body td em { display: block; font-weight: 400; color: var(--mute); }
 
-/* give the columns room so the speaker column stops breaking mid-affiliation */
-.body td:first-child, .body th:first-child { width: 76px; }
-.body td:nth-child(2), .body th:nth-child(2) { width: 34%; }
+/* date column: fixed width so every schedule table lines up */
+.body td:first-child, .body th:first-child { width: 110px; }
+
 
 .body td:last-child { padding-right: 0; }
+
+/* home-page term list: the term is the link, topics stay in plain body grey */
+.body table.terms td:nth-child(2) { color: var(--text); font-weight: 400; }
 
 /* ---------- phones ---------- */
 

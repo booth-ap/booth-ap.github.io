@@ -14,94 +14,29 @@ The group is open to PhD students and faculty.
 
 ## Schedule & Topics
 
-### Fall 2026
-- Topics: Preliminary Project Ideas
-- [Schedule](2026_Fall.md)
-
-### Summer 2026
-- Topics: Preliminary Project Ideas
-- [Schedule](2026_Summer.md)
-
-### Spring 2026
-- Topics: Preliminary Project Ideas
-- [Schedule](2026_Spring.md)
-  
-### Winter 2026
-- Topics: Preliminary Project Ideas
-- [Schedule](2026_Winter.md)
-
-### Fall 2025
-- Topics: Preliminary Project Ideas
-- [Schedule](2025F)
-
-### Summer 2025
-- Topics: Preliminary Project Ideas
-- [Schedule](2025Su.md)
-  
-### Spring 2025
-- Topics: Preliminary Project Ideas
-- [Schedule](2025S.md)
-  
-### Winter 2025
-- Topics: Preliminary Project Ideas
-- [Schedule](2025W.md)
-  
-### Fall 2024
-- Topics: Preliminary Project Ideas
-- [Schedule](2024F.md)
-  
-### Summer 2024
-- Topics: Preliminary Project Ideas
-- [Schedule](2024Su.md)
-  
-### Spring 2024
-- Topics: Preliminary Project Ideas
-- [Schedule](2024S.md)
-
-### Winter 2024
-- Topics: Preliminary Project Ideas
-- [Schedule](2024W.md)
-  
-### Fall 2023
-- Topics: Preliminary Project Ideas
-- [Schedule](2023F.md) 
-
-### Summer 2023
-- Topics: Preliminary Project Ideas
-- [Schedule](2023Su.md) 
-
-### Spring 2023
-- Topics: Preliminary Project Ideas
-- [Schedule](2023S.md) 
-
-### Winter 2023
-- Topics: Preliminary Project Ideas
-- [Schedule](2023W.md)
-
-### Fall 2022
-- Topics: Private Assets / Revisiting CX Asset Pricing
-- [Schedule](2022F.md)
-
-### Summer 2022
-- Topics: Network models / Text data in asset pricing
-- [Schedule](2022Su.md)
-
-### Spring 2022
-- Topics: Preliminary Project Ideas / Economics of Sanctions
-- [Schedule](2022S.md) 
-
-### Winter 2022
-- Topics: Inflation Risk / DeFi and Stablecoins
-- [Schedule](2022W.md)
-
-### Fall 2021
-- Topics: Preliminary Project Ideas
-- [Schedule](2021F.md)
-
-### Summer 2021
-- Topics: Curriculum Paper Presentations / Granularity in Finance
-- [Schedule](2021Su.md)
-
-### Spring 2021
-- Topics: Fiscal Theory & Inflation / Monetary Policy & International Finance / Concentration, Market Power, and Investment
-- [Schedule](2021S.md)
+| Term | Topics |
+| :--- | :--- |
+| [Fall 2026](2026_Fall.md) | Preliminary Project Ideas |
+| [Summer 2026](2026_Summer.md) | Preliminary Project Ideas |
+| [Spring 2026](2026_Spring.md) | Preliminary Project Ideas |
+| [Winter 2026](2026_Winter.md) | Preliminary Project Ideas |
+| [Fall 2025](2025F) | Preliminary Project Ideas |
+| [Summer 2025](2025Su.md) | Preliminary Project Ideas |
+| [Spring 2025](2025S.md) | Preliminary Project Ideas |
+| [Winter 2025](2025W.md) | Preliminary Project Ideas |
+| [Fall 2024](2024F.md) | Preliminary Project Ideas |
+| [Summer 2024](2024Su.md) | Preliminary Project Ideas |
+| [Spring 2024](2024S.md) | Preliminary Project Ideas |
+| [Winter 2024](2024W.md) | Preliminary Project Ideas |
+| [Fall 2023](2023F.md) | Preliminary Project Ideas |
+| [Summer 2023](2023Su.md) | Preliminary Project Ideas |
+| [Spring 2023](2023S.md) | Preliminary Project Ideas |
+| [Winter 2023](2023W.md) | Preliminary Project Ideas |
+| [Fall 2022](2022F.md) | Private Assets / Revisiting CX Asset Pricing |
+| [Summer 2022](2022Su.md) | Network models / Text data in asset pricing |
+| [Spring 2022](2022S.md) | Preliminary Project Ideas / Economics of Sanctions |
+| [Winter 2022](2022W.md) | Inflation Risk / DeFi and Stablecoins |
+| [Fall 2021](2021F.md) | Preliminary Project Ideas |
+| [Summer 2021](2021Su.md) | Curriculum Paper Presentations / Granularity in Finance |
+| [Spring 2021](2021S.md) | Fiscal Theory & Inflation / Monetary Policy & International Finance / Concentration, Market Power, and Investment |
+{: .terms}
